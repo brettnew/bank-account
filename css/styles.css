@@ -1,0 +1,11 @@
+#user{
+  display: none;
+}
+
+form {
+  margin: 20px 0px 20px 0px;
+}
+
+.current-balance {
+  font-size: 2em;
+}
